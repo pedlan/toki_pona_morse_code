@@ -161,3 +161,9 @@ kipisi	.-....-
 cartouche	.-...-.
 period		-.-.-.
 question mark	-..--..
+
+
+This was based on this file: https://gist.github.com/increpare/9aaf57056b857cb44a38d0ff0de9534b#file-word-frequency-statistics-based-on-toki-pona-taso-on-ma-pona-pi-toki-pona-txt
+by user https://github.com/increpare
+
+This is not anything serious, just a fun little idea I had.
